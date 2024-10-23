@@ -1,0 +1,10 @@
+body{
+    font-weight: bold;
+    font-family:sans-serif ;
+    border-style: solid;
+    border-color: black ;
+    border-width: 5px ;
+    padding: 5%;
+    background-color: rgb(151, 203, 220);
+
+}
